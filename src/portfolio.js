@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Lavish Jain Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://lavish-jain.github.io/",
   },
 };
 
@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "I caught fire coding! Always up for a new challenge, I love building the backbone of systems that make an impact on people's lives.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1eH9yVt90cHKAtHwHG2HvzKuYFyBv_EFp/view?usp=sharing",
+  portfolio_repository: "https://github.com/lavish-jain/portfolio",
 };
 
 const socialMediaLinks = [
